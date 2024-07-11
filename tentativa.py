@@ -1,4 +1,4 @@
-#! pip install https://github.com/pandas-profiling/pandas-profiling/archive/master.zip
+'''#! pip install https://github.com/pandas-profiling/pandas-profiling/archive/master.zip
 import numpy as np
 import seaborn as sns
 import pandas as pd
@@ -13,13 +13,11 @@ link = 'https://raw.githubusercontent.com/bernardogomesrib/IA-projeto/main/archi
 dataset = pd.read_csv(link,sep=";")
 dicionario ={"Graduate":0,"Dropout":1,"Enrolled":2}#dicionario para transformar as strings em números
 #transformando as strings em números
-
 for i in range(len(dataset['Target'].values)):
   dataset['Target'].values[i] = dicionario[dataset['Target'].values[i]]
 #fim transformação
 
 #apagando todas as linhas que tem a coluna 'Target' com valor igual a 2
-
 dataset = dataset[dataset['Target'] != 2]
 #fim apagar linhas
 
@@ -108,3 +106,4 @@ fig.add_trace(go.Scatter(x=dataframe_results.index,
                          line=dict(color='BLUE', width=2)))
 fig.show()
 #kkk
+'''
