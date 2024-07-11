@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/missionjee/students-dropout-and-academic-success-dataset
+https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention
+https://www.kaggle.com/datasets/marouandaghmoumi/dropout-and-success-student-data-analysis
+https://www.kaggle.com/datasets/yessicatuteja/student-dropout-rate
