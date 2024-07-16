@@ -1,0 +1,45 @@
+Colunas apagadas: ['Application mode', "Mother's qualification", 'Curricular units 1st sem (evaluations)', 'Curricular units 2nd sem (evaluations)', 'Target']
+RMSE =  0.28986555257134833
+IA acertou 91.60% dos casos.
+Colunas apagadas: ['Marital status', 'Application mode', 'Nacionality', 'Curricular units 1st sem (evaluations)', 'Curricular units 2nd sem (evaluations)', 'Target']
+RMSE =  0.28986555257134833
+IA acertou 91.60% dos casos.
+Colunas apagadas: ['Daytime/evening attendance\t', 'Age at enrollment', 'Curricular units 2nd sem (grade)', 'GDP', 'Target']
+RMSE =  0.28986555257134833
+IA acertou 91.60% dos casos.
+Colunas apagadas: ['Marital status', 'Application order', 'Admission grade', 'Curricular units 1st sem (credited)', 'Curricular units 2nd sem (grade)', 'Target']
+RMSE =  0.28986555257134833
+IA acertou 91.60% dos casos.
+Colunas apagadas: ['Marital status', 'Previous qualification (grade)', 'Displaced', 'Scholarship holder', 'International', 'Target']
+RMSE =  0.28747978728803447
+IA acertou 91.74% dos casos.
+Colunas apagadas: ['Marital status', 'Application order', 'Admission grade', 'Curricular units 1st sem (enrolled)', 'Curricular units 2nd sem (grade)', 'Target']
+RMSE =  0.28986555257134833
+IA acertou 91.60% dos casos.
+Colunas apagadas: ['Marital status', 'Previous qualification (grade)', 'Displaced', 'Scholarship holder', 'Curricular units 2nd sem (evaluations)', 'Target']
+RMSE =  0.28747978728803447
+IA acertou 91.74% dos casos.
+Colunas apagadas: ['Marital status', 'Previous qualification (grade)', 'Displaced', 'Scholarship holder', 'Inflation rate', 'Target']
+RMSE =  0.28264785009360044
+IA acertou 92.01% dos casos.
+Colunas apagadas: ['Marital status', 'Application order', 'Admission grade', 'Curricular units 1st sem (evaluations)', 'GDP', 'Target']
+RMSE =  0.28986555257134833
+IA acertou 91.60% dos casos.
+Colunas apagadas: ['Daytime/evening attendance\t', 'Previous qualification (grade)', "Father's qualification", 'Educational special needs', 'Target']
+RMSE =  0.28986555257134833
+IA acertou 91.60% dos casos.
+Colunas apagadas: ['Marital status', 'Previous qualification (grade)', 'Displaced', 'Scholarship holder', 'Target']
+RMSE =  0.28747978728803447
+IA acertou 91.74% dos casos.
+Colunas apagadas: ['Application order', 'Daytime/evening attendance\t', 'Previous qualification (grade)', "Mother's occupation", 'Target']
+RMSE =  0.28986555257134833
+IA acertou 91.60% dos casos.
+Colunas apagadas: ['Daytime/evening attendance\t', 'Previous qualification (grade)', "Mother's occupation", 'Displaced', 'Target']
+RMSE =  0.28986555257134833
+IA acertou 91.60% dos casos.
+Colunas apagadas: ['Application order', 'Daytime/evening attendance\t', 'Previous qualification (grade)', 'Scholarship holder', 'Target']
+RMSE =  0.28986555257134833
+IA acertou 91.60% dos casos.
+Colunas apagadas: ['Marital status', "Father's qualification", 'Curricular units 2nd sem (evaluations)', 'Curricular units 2nd sem (grade)', 'GDP', 'Target']
+RMSE =  0.28747978728803447
+IA acertou 91.74% dos casos.
