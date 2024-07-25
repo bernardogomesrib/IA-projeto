@@ -1,0 +1,9 @@
+Colunas apagadas: ["Father's occupation", 'Curricular units 1st sem (credited)', 'Curricular units 2nd sem (credited)', 'Curricular units 2nd sem (grade)']
+RMSE =  0.27773186030035396
+IA acertou 92.29% dos casos.
+Colunas apagadas: ['Marital status', 'Daytime/evening attendance\t', "Father's qualification", 'Curricular units 1st sem (grade)', 'Curricular units 2nd sem (evaluations)']
+RMSE =  0.27773186030035396
+IA acertou 92.29% dos casos.
+Colunas apagadas: ['Admission grade', 'Curricular units 1st sem (grade)', 'Curricular units 2nd sem (grade)', 'Inflation rate']
+RMSE =  0.27524094128159016
+IA acertou 92.42% dos casos.

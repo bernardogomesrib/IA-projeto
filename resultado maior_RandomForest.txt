@@ -1,0 +1,41 @@
+
+Colunas apagadas: ['Daytime/evening attendance\t', 'Curricular units 1st sem (without evaluations)', 'Unemployment rate', 'GDP']
+RMSE =  0.28747978728803447
+IA acertou 91.74% dos casos.
+Colunas apagadas: ['Marital status', 'Previous qualification', 'Gender', 'Unemployment rate', 'Inflation rate']
+RMSE =  0.28747978728803447
+IA acertou 91.74% dos casos.
+------------------------------------------------------------------------------------------------Colunas apagadas: ['Daytime/evening attendance\t', 'Curricular units 1st sem (without evaluations)', 'Unemployment rate', 'GDP']
+RMSE =  0.28747978728803447
+IA acertou 91.74% dos casos.
+Colunas apagadas: ['Marital status', 'Previous qualification', 'Gender', 'Unemployment rate', 'Inflation rate']
+RMSE =  0.28747978728803447
+IA acertou 91.74% dos casos.
+Colunas apagadas: ['Application mode', 'Gender', 'Age at enrollment', 'Curricular units 1st sem (evaluations)', 'Curricular units 1st sem (grade)']
+RMSE =  0.28747978728803447
+IA acertou 91.74% dos casos.Colunas apagadas: ['Application mode', 'Daytime/evening attendance\t', 'Previous qualification', 'Age at enrollment', 'International']
+RMSE =  0.28747978728803447
+IA acertou 91.74% dos casos.
+Colunas apagadas: ['Application mode', 'Age at enrollment', 'Curricular units 1st sem (enrolled)', 'Inflation rate', 'GDP']
+RMSE =  0.28747978728803447
+IA acertou 91.74% dos casos.Colunas apagadas: ['Marital status', 'Gender', 'Age at enrollment', 'Curricular units 1st sem (grade)', 'Unemployment rate']
+RMSE =  0.28747978728803447
+IA acertou 91.74% dos casos.
+
+Colunas apagadas: ['Application mode', "Father's qualification", 'Educational special needs', 'Age at enrollment', 'Curricular units 1st sem (enrolled)']
+RMSE =  0.28747978728803447
+IA acertou 91.74% dos casos.
+
+Colunas apagadas: ['Course', 'Gender', 'Curricular units 1st sem (without evaluations)', 'Curricular units 2nd sem (credited)', 'Curricular units 2nd sem (evaluations)']
+RMSE =  0.28747978728803447
+IA acertou 91.74% dos casos.Colunas apagadas: ['Previous qualification', "Father's qualification", 'Curricular units 1st sem (credited)', 'Curricular units 2nd sem (enrolled)', 'Unemployment rate']
+RMSE =  0.28747978728803447
+IA acertou 91.74% dos casos.
+
+Colunas apagadas: ["Mother's occupation", 'Age at enrollment', 'Curricular units 1st sem (credited)', 'Unemployment rate', 'GDP']
+RMSE =  0.28747978728803447
+IA acertou 91.74% dos casos.
+Colunas apagadas: ['Age at enrollment', 'International', 'Curricular units 1st sem (grade)', 'Curricular units 2nd sem (evaluations)', 'Unemployment rate']
+RMSE =  0.28747978728803447
+IA acertou 91.74% dos casos.
+
